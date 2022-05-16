@@ -1,0 +1,18 @@
+Package: moosync
+Version: 2.1.0
+Architecture: amd64
+Maintainer: Ovenoboyo <ovenoboyo@gmail.com>
+Installed-Size: 248683
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./Moosync-2.1.0-linux-amd64.deb
+Size: 71777158
+MD5sum: c3851ee2eb8519a4cd257d7a3daab8f6
+SHA1: 8fc6df11e0637ce1c3eb8b1334b7b978895d5ba6
+SHA256: 96e5fdaa8a6f0d1a37c1dc6cc125f0d47958d69473d9b225344dc90129200b5c
+Section: default
+Priority: optional
+Homepage: https://github.com/Moosync/Moosync
+License: unknown
+Vendor: Ovenoboyo <ovenoboyo@gmail.com>
+
