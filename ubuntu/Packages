@@ -36,3 +36,23 @@ Description:
 License: unknown
 Vendor: Ovenoboyo <ovenoboyo@gmail.com>
 
+Package: moosync
+Version: 3.0.1
+Architecture: amd64
+Maintainer: Ovenoboyo <ovenoboyo@gmail.com>
+Installed-Size: 265318
+Depends: libvips-dev
+Recommends: libappindicator3-1
+Filename: ./Moosync-3.0.1-linux-amd64.deb
+Size: 72455104
+MD5sum: 9fdc29554bf3751902b97c556dac1864
+SHA1: a846aae8aa65f51fcc5b568d3d2ec12a465431fc
+SHA256: f5cbec12db3b943b6bb0374b217dd7d9f8017408895ec80460b7e6ad1fa507ac
+Section: default
+Priority: optional
+Homepage: https://github.com/Moosync/Moosync
+Description:
+  Moosync is a customizable desktop music player with a clean interface
+License: unknown
+Vendor: Ovenoboyo <ovenoboyo@gmail.com>
+
