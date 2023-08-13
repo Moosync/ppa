@@ -9,7 +9,7 @@ else
 fi
 
 # Packages & Packages.gz
-python dpkg-scanpackages.py --multiversion . > Packages
+.venv/bin/python dpkg-scanpackages.py --multiversion . > Packages
 gzip -k -f Packages
 
 # Release, Release.gpg & InRelease
