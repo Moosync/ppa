@@ -159,6 +159,26 @@ Recommends: libappindicator3-1
 Vendor: Ovenoboyo <ovenoboyo@gmail.com>
 
 Package: moosync
+Version: 10.3.0
+Architecture: amd64
+Maintainer: Ovenoboyo <ovenoboyo@gmail.com>
+Depends: libnotify4, libxtst6, libnss3, libatomic1, libicu-dev, libasound2-dev
+Filename: ./Moosync-10.3.0-linux-amd64.deb
+Size: 93490698
+MD5sum: 6fd5876d3ea35595d895f30a8b6f2b6f
+SHA1: 80a105606d1d0887a22775a10995f3af31af5bfc
+SHA256: fcf1cab76c00b36186dcdacc0cb66904ba7f96745cc252816808709f81a6b6ca
+Section: default
+Description: 
+  Moosync is a customizable desktop music player with a clean interface
+Homepage: https://github.com/Moosync/Moosync
+Installed-Size: 397301
+License: unknown
+Priority: optional
+Recommends: libappindicator3-1
+Vendor: Ovenoboyo <ovenoboyo@gmail.com>
+
+Package: moosync
 Version: 4.0.0
 Architecture: amd64
 Maintainer: Ovenoboyo <ovenoboyo@gmail.com>
