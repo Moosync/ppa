@@ -164,10 +164,10 @@ Architecture: amd64
 Maintainer: Ovenoboyo <ovenoboyo@gmail.com>
 Depends: libnotify4, libxtst6, libnss3, libatomic1, libicu-dev, libasound2-dev
 Filename: ./Moosync-10.3.0-linux-amd64.deb
-Size: 93490698
-MD5sum: 6fd5876d3ea35595d895f30a8b6f2b6f
-SHA1: 80a105606d1d0887a22775a10995f3af31af5bfc
-SHA256: fcf1cab76c00b36186dcdacc0cb66904ba7f96745cc252816808709f81a6b6ca
+Size: 93490060
+MD5sum: 7d7dc99ce50256c725e67ca3698befa4
+SHA1: 68d6c50e2d44aff2d490674d42c0e711593e3361
+SHA256: 592e3985753049e433be9ecf51002dc74f89d332c18573abeb7c5bec62b97adc
 Section: default
 Description: 
   Moosync is a customizable desktop music player with a clean interface
