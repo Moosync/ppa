@@ -1,11 +1,11 @@
 version=$1
 EMAIL=sahilsachingupte@gmail.com
 
-FILE="Moosync-${version}-linux-amd64.deb"
+FILE="Moosync_${version}_amd64.deb"
 if [ -f "$FILE" ]; then
     echo "$FILE already exists."
 else
-    wget "https://github.com/Moosync/Moosync/releases/download/v${version}/Moosync-${version}-linux-amd64.deb"
+    wget "https://github.com/Moosync/Moosync/releases/download/Moosync-v${version}/Moosync_${version}_amd64.deb"
 fi
 
 # Packages & Packages.gz
