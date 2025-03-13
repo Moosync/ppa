@@ -9,6 +9,7 @@ else
 fi
 
 # Packages & Packages.gz
+source .venv/bin/activate
 .venv/bin/python dpkg-scanpackages.py --multiversion . > Packages
 gzip -k -f Packages
 
