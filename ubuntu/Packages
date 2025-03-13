@@ -323,10 +323,10 @@ Architecture: amd64
 Maintainer: you
 Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
 Filename: ./Moosync_11.0.1_amd64.deb
-Size: 27928234
-MD5sum: ac1ef610e7ca8d0dbf180615ad986962
-SHA1: 8f8b2cb20c8371238c58c49bb93b4fdb4e11ac49
-SHA256: 17f1ee79c3ebbaaaa864d099df0b2b25796e6fe1c4261a629638e1e9731ddf04
+Size: 27927106
+MD5sum: cab39ab6e445d38709294d954fb4e23d
+SHA1: b8f73fd6d73b523068689698915393796733ef79
+SHA256: 6e1308e7f1614c827efdb78230e7c1bf3555b5ec86626d8ea95d06ebcf840f98
 Description: Moosync
  (none)
 Installed-Size: 65759
