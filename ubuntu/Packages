@@ -332,3 +332,18 @@ Description: Moosync
 Installed-Size: 65759
 Priority: optional
 
+Package: moosync
+Version: 11.0.2
+Architecture: amd64
+Maintainer: you
+Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: ./Moosync_11.0.2_amd64.deb
+Size: 27930396
+MD5sum: 1742cee2230c56e14fe0efb769643a28
+SHA1: a313f73806db55fbf702c55c7296a76834706ee5
+SHA256: fcca027b8c3c5d28f18cf9641f61f4db008cce7dee6de17f207732a8f549b1ac
+Description: Moosync
+ (none)
+Installed-Size: 65771
+Priority: optional
+
